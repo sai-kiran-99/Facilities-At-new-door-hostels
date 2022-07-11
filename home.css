@@ -1,0 +1,31 @@
+body{
+  background-color: #d2aa2f;
+}
+
+
+.logo{
+  margin-left:10px;
+  text-align: center;
+  text-decoration-style: solid;
+  color: 	red;
+}
+
+.navbar{
+   padding-left: 650px;
+   text-decoration:none;
+    background-color: red;
+    font-style: normal;
+}
+.home{
+  text-align: center;
+  font-family:monospace;
+  font-style: italic;
+
+}
+
+.heading{
+padding-left: 1300px;
+}
+.contact{
+  padding-right:  110px;
+}
